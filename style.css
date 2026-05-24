@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    margin-top: 40px;
+    margin-left: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 8%;
+ 
+}
+
+header h1 {
+    color: orangered;
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+nav {
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.objetivo{
+    display: flex;
+    align-items: center;
+    padding: 40px 8%;
+    justify-content: center;
+    min-height: 90vh;
+}
+.objetivo-container{
+    max-width: 700px;
+}
+.objetivo-container h2{
+    color: orangered;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom:20px;
+    margin-right: 40px;
+}
+.objetivo-container p{
+    color: white;
+    font-size:18px;
+    line-height:32px;
+    margin-bottom:30px;
+
+}
+img{
+    width: 400px;
+}
+.serviços{
+    text-align: center;
+    padding:80px 8%;
+}
+.serviços h2{
+    font-weight:600;
+    font-size:36px;
+    margin-bottom: 50px;
+    color: orangered;
+}
+.cards{
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+}
+.card{
+    width:300px ;
+    padding: 30px;
+    border-radius: 14px;
+    background-color: orangered;
+    cursor: pointer;
+}
+
+.card :hover{
+    transform: translateY(-8px);
+}
+.imagem{
+    font-size: 30px;
+}
+.card h3{
+    margin: 20px 0;
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+}
+.card p{
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: 500;
+    color: black
+}
+
+.conhecer{
+    text-align: center;
+    padding: 80px 8%;
+}
+.conhecer h2{
+    color: orangered;
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.conhecer p{
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.butao{
+    display: inline-block;
+    background-color: orangered;
+    text-decoration: none;
+    padding: 14px 24px;
+    border-radius: 8px;
+    font-weight: 500;
+    color: white;
+    cursor: pointer;
+}
+
+footer{
+    color: orangered;
+    text-align: center;
+    padding: 20px;
+    background-color: #0f172a;
+
+}
