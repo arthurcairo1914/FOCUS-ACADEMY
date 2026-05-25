@@ -12,14 +12,15 @@ Automação de negócios
 O projeto possui um design moderno com destaque nas cores preto e laranja, além de uma navegação simples e intuitiva.</p>
 <br>
 <br>
-<h2>Tecnologias usadas</h2>
-<p>HTML5
-CSS3</p>
 <h2>Funcionalidades</h2>
 <p>Estrutura semântica em HTML
 Navegação entre seções
 Cards de serviços
 Layout organizado e responsivo
 Botão com link externo</p>
+<h2>Tecnologias usadas</h2>
+<p>HTML5
+CSS3
+</p>
 
 
