@@ -68,11 +68,11 @@ nav a {
 img{
     width: 400px;
 }
-.serviços{
+.servicos{
     text-align: center;
     padding:80px 8%;
 }
-.serviços h2{
+.servicos h2{
     font-weight:600;
     font-size:36px;
     margin-bottom: 50px;
@@ -127,7 +127,7 @@ img{
     margin-bottom: 30px;
 }
 
-.butao{
+.botao{
     display: inline-block;
     background-color: orangered;
     text-decoration: none;
