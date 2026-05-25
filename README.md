@@ -5,20 +5,20 @@
 <h2>Sobre o projeto</h2>
 <p>A página foi criada com o objetivo de divulgar soluções digitais para pequenos negócios, apresentando serviços como:
 
-Cursos de tecnologia
-Criação de sites
-Automação de negócios
+Cursos de tecnologia;
+Criação de sites;
+Automação de negócios.
 
 O projeto possui um design moderno com destaque nas cores preto e laranja, além de uma navegação simples e intuitiva.</p>
 <br>
 <br>
 <h2>Funcionalidades</h2>
-<p>Estrutura semântica em HTML
-Navegação entre seções
-Cards de serviços
-Layout organizado e responsivo
+<p>Estrutura semântica em HTML;
+Navegação entre seções;
+Cards de serviços;
+Layout organizado e responsivo;
 Botão com link externo</p>
-<h2>foram utilizados</h2>
+<h2>Ferramentas</h2>
 <p>HTML5
 CSS3
 </p>
