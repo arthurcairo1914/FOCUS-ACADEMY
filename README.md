@@ -18,7 +18,7 @@ Navegação entre seções
 Cards de serviços
 Layout organizado e responsivo
 Botão com link externo</p>
-<h2>Tecnologias usadas</h2>
+<h2>foram utilizados</h2>
 <p>HTML5
 CSS3
 </p>
