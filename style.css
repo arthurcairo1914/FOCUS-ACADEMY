@@ -51,14 +51,14 @@ nav a {
 .inicio-objetivo{
     max-width: 700px;
 }
-.objetivo-container h2{
+.inicio-objetivoh2{
     color: orangered;
     font-weight: 700;
     font-size: 30px;
     margin-bottom:20px;
     margin-right: 40px;
 }
-.objetivo-container p{
+.inicio-objetivo p{
     color: white;
     font-size:18px;
     line-height:32px;
